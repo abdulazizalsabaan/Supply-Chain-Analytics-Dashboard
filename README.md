@@ -52,6 +52,19 @@ This dashboard analyzes supply chain performance and provides interactive insigh
 
 ---
 
+## 💡 Skills Demonstrated
+
+- SQL
+- SQL Server
+- Power BI
+- DAX
+- Power Query
+- Data Visualization
+- Dashboard Design
+- Data Analysis
+- Business Intelligence
+
+---
 ## 📂 Repository Structure
 
 ```
