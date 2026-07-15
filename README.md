@@ -1,54 +1,86 @@
-# 📊 Supply Chain Analytics Dashboard
+# 📊 Supply Chain Performance Dashboard
 
-## 📌 Overview
+Interactive Supply Chain Analytics Dashboard built using **SQL Server** and **Power BI**.
 
-This project analyzes supply chain performance using SQL Server and Power BI.
+---
 
-The dashboard provides interactive insights into:
+## 📷 Dashboard Preview
+
+![Dashboard](Images/dashboard.png)
+
+---
+
+## 📌 Project Overview
+
+This dashboard analyzes supply chain performance and provides interactive insights into:
 
 - Revenue Performance
 - Product Sales
 - Shipping Performance
 - Product Quality
-- Inventory Analysis
+- Geographic Order Distribution
 
 ---
 
-## 🛠 Tools Used
+## 📈 Key KPIs
+
+- 💰 Total Revenue
+- 📦 Total Products Sold
+- 🏷️ Average Price
+- 🚚 Average Shipping Time
+- ⚠️ Average Defect Rate
+
+---
+
+## 📊 Dashboard Features
+
+- Revenue by Product Type
+- Revenue by Shipping Carrier
+- Average Shipping Time Analysis
+- Product Defect Rate Analysis
+- Geographic Order Distribution
+- Interactive Filters (Location & Product Type)
+
+---
+
+## 🛠️ Tools Used
 
 - SQL Server
 - Power BI
 - DAX
 - Power Query
-- Microsoft Excel
 
 ---
 
-## 📊 KPIs
+## 📂 Repository Structure
 
-- Total Revenue
-- Total Products Sold
-- Average Price
-- Average Shipping Time
-- Average Defect Rate
+```
+Dashboard/
+    SupplyChainDashboard.pbix
 
----
-
-## 📈 Dashboard Preview
-
-> Dashboard screenshot will be added here.
+Images/
+    dashboard.png
+```
 
 ---
 
-## 💡 Key Insights
+## 🚀 How to Use
 
-- Skincare generated the highest revenue.
-- Haircare recorded the highest defect rate.
-- Carrier B achieved the highest revenue while maintaining the shortest average shipping time.
-- No strong relationship was found between stock levels and product sales.
+1. Download the `.pbix` file.
+2. Open it using Power BI Desktop.
+3. Explore the interactive dashboard.
 
 ---
 
 ## 👤 Author
 
 **Abdulaziz Alsabaan**
+
+- GitHub: https://github.com/abdulazizalsabaan
+- LinkedIn: (Add your LinkedIn profile)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
