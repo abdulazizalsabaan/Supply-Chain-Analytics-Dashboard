@@ -77,7 +77,7 @@ Images/
 **Abdulaziz Alsabaan**
 
 - GitHub: https://github.com/abdulazizalsabaan
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: https://www.linkedin.com/in/abdulaziz-alsabaan-7483a3205
 
 ---
 
